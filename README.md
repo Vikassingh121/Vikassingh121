@@ -1,9 +1,9 @@
-# 👋 Hi, I’m @Vikassingh121
+# 👋 Hi there! I’m @Vikassingh121
 
-
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Unity Video Game Projects
+## Some info about me
+- 👀 I’m a Video Games Developer From India
+- 🌱 I’m learning new tech
+- 💞️ I’m looking to collaborate on Unity/Unreal Video Game Projects
 - 📫 How to reach me Vikassinghthainua21@gmail.com
 
 <!---
