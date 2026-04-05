@@ -9,7 +9,7 @@ I specialize in building immersive worlds and engaging gameplay mechanics. I'm d
 
 * 💻   Develop games using **Unity** and **Unreal Engine**.
 * 🌱   I'm always learning and exploring new tech to level up my development skills.
-* 💞️   I’m actively looking to collaborate on ambitious **Unity** or **Unreal** projects, especially... *(mention a specific interest, e.g., "multiplayer shooters," "stylized RPGs," or "hyper-casual mobile games")*
+* 💞️   I’m actively looking to collaborate on ambitious **Unity** or **Unreal** projects, especially "multiplayer shooters," "stylized RPGs," or "hyper-casual mobile games"
 * 💬   Ask me about gameplay programming, C#, or level design!
 
 ---
