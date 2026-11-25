@@ -44,3 +44,16 @@ I'm open to new opportunities and collaborations. Feel free to get in touch!
 
 * 📧   **Email:** [Vikassinghthainua21@gmail.com](mailto:Vikassinghthainua21@gmail.com)
 * 💼   **LinkedIn:** ((https://www.linkedin.com/in/vikassingh121))
+
+
+### White Cube Studios
+
+I also run White Cube Studios, a game, web and media studio in India working in Unreal Engine, Unity and Godot.
+
+Website: https://www.whitecubestudios.com
+
+Blog: https://www.whitecubestudios.com/blog
+
+Portfolio: https://www.whitecubestudios.com/portfolio
+
+Company page: https://www.linkedin.com/company/white-cube-studios/
